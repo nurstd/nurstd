@@ -22,10 +22,8 @@ Portfolio: https://s.id/ProductfolioNur
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurstd&theme=merko&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurstd&theme=merko&hide_border=false"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=nurstd&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nurstd&theme=merko&hide_border=false)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurstd&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
