@@ -1,5 +1,10 @@
 ## 💫 About Me:
-Fresh Graduate Bachelor of Mathematics from Sepuluh Nopember Institute of Technology (ITS) specializing in Programming and Visual Computing who are highly motivated with multi-disciplinary skills. Enthusiast in conducting research and product analysis, coordinating, and collaborating as a team. <br><br>Experience:<br>• Research and define requirements for developing Conversational Artificial Intelligence based Software as a Service (SaaS) products.<br>• Conducting software quality tests on e-commerce and shipping products.
+Fresh Graduate Bachelor of Mathematics from Sepuluh Nopember Institute of Technology (ITS) specializing in Programming and Visual Computing who are highly motivated with multi-disciplinary skills. Enthusiast in conducting research and product analysis, coordinating, and collaborating as a team.
+
+<br><br>Experience:
+<br>• Research and define requirements for developing Conversational Artificial Intelligence based Software as a Service (SaaS) products.
+<br>• Conducting software quality tests on e-commerce and shipping products.
+
 <br><br>
 Portfolio: https://s.id/ProductfolioNur
 
