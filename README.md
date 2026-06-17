@@ -1,5 +1,13 @@
 ## 💫 About Me:
-Master of Technology Management student from Sepuluh Nopember Institute of Technology with over 1 year of work experience in conducting research and defining needs for developing Conversational Artificial Intelligence Software as a Service (SaaS) products, initiating test cases, conducting web and mobile app testing, conditioning compatibility tests & creating API Automation scripts for platforms that provide solutions for online businesses in managing shipping orders, product sourcing & advertising. Earned a Bachelor of Mathematics degree from the Sepuluh Nopember Institute of Technology (ITS), specializing in Programming and Visual Computing in 2022. Highly motivated with multi-disciplinary skills and passionate about doing product research and analysis.
+Empathize to People • Focus on Problem • Explore the Solution ✨
+
+Inter-disciplinary tech professional with more than 3 years of experience bridging the gap between business goals and technical execution as a Project Manager, QA Engineer, and Product Manager.
+ 
+Involved end-to-end in SDLC projects across domains: Artificial Intelligence, Logistics, Business Management, Socio-Commerce, Education, and Military Information Systems. Whether it's ensuring quality delivery through Agile sprints or managing structured timelines in Waterfall projects, bring a holistic perspective that covers strategy, process, and product.
+
+Master's degree in Technology Management from ITS (Institut Teknologi Sepuluh Nopember), with specialization in AI and Business Analytics giving me the tools to make data-informed product decisions and align tech solutions with real business value.
+ 
+I thrive at the intersection of people, process, product  and I'm always looking for opportunities to build things that matter 🙌
 
 <br>Portfolio: https://s.id/PortfolioNur
 
